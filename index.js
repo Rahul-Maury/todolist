@@ -20,12 +20,12 @@ const item2=new Item({
   name:"lallu"
 });
 const item3=new Item({
-  name:"bhulloo"
+  name:"welcome to your work list"
 });
 const item1=new Item({
 name:"QB"
 });
-const defaultItems=[item1,item2,item3];
+const defaultItems=[item3];
 // const i1=new Item({
 //   name:"basanti"
 // })
